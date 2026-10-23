@@ -2,7 +2,7 @@
 
 Reference prototype and benchmark data for the paper
 **"Policy-Bound Homomorphic Key Domains: Integrating CKKS Encryption with Attribute-Based Access Control for IoT Analytics"**
-by Khaled Riad and Mohamed Elhoseny.
+by Khaled Riad (khaled.riad@science.zu.edu.eg and kriad@kfu.edu.sa).
 
 A CKKS key set is derived from a 32-byte epoch seed. The seed is wrapped in a ciphertext-policy ABE envelope
 (Waters-style LSSS, BN254), and a semi-trusted gateway performs the pairing work so that the user needs one
